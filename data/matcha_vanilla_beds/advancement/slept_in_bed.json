@@ -10,6 +10,6 @@
 		]
 	],
 	"rewards": {
-		"function": "matcha_vanilla_beds:process_sleeping"
+		"function": "matcha_vanilla_beds:process_new_sleeper"
 	}
 }
