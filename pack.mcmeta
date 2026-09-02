@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "min_format":88.0,
+    "max_format":107.1,
+    "description": [
+      {
+        "text": "Rein's Matcha-Vanilla Beds",
+        "color": "#56be4e"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "for 1.10-1.12",
+        "color": "#908b8b"
+      }
+    ]
+  }
+}
