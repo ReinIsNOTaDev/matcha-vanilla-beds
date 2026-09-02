@@ -1,5 +1,5 @@
 # Load message
-tellraw @a [{text:"5. Matcha-Vanilla Beds is now loaded",color:"red"}]
+tellraw @a [{text:"Matcha-Vanilla Beds is now loaded",color:"red"}]
 
 # Scoreboard setup
 scoreboard objectives add MVBplayers dummy

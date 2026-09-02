@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"slept_in_bed": {
+			"trigger": "minecraft:slept_in_bed"
+		}
+	},
+	"requirements": [
+		[
+			"slept_in_bed"
+		]
+	],
+	"rewards": {
+		"function": "matcha_vanilla_beds:process_sleeping"
+	}
+}
