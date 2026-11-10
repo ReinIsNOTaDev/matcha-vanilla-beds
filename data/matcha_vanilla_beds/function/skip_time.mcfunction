@@ -1,2 +1,2 @@
-time add 480t
+time add 1440t
 weather clear
